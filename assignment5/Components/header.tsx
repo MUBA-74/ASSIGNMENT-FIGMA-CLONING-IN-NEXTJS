@@ -7,7 +7,7 @@ const Header = () => {
   return (
     <div> 
 
-    <div className= {`${fontRye} text-[#FFFFFF] bg-[#A29875]  w-[1920px] h-[25px] m-full justify-start place-items-start `} > MANZZARI </div> 
+    <div className= {`${fontRye} text-white bg-[#A29875]  w-[1920px] h-[25px] m-full justify-start place-items-start `} > MANZZARI </div> 
         
     </div>
         
